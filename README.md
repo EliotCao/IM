@@ -3,22 +3,16 @@
 
 #### [FTChatMessage](https://github.com/liufengting/FTChatMessage)
   - FTChatMessage
-
 #### [ZHChat](https://github.com/zhuozhuo/ZHChat)
   - An elegant messages UI library for iOS.
-
 #### [LiuqsChatSwift](https://github.com/LMMIsGood/LiuqsChatSwift)
   - swift版图文混排；swift练手项目
-
 #### [TSWeChat](https://github.com/hilen/TSWeChat)
   - A WeChat alternative. Written in Swift.
-  
 #### [XZ_WeChat](https://github.com/corderguo/XZ_WeChat)
   - 微信聊天框架搭建，高仿微信聊天框架
-  
 #### [TLChat](https://github.com/tbl00c/TLChat)
   * 高仿微信
-  
 #### [ComChat](https://github.com/SummonY/ComChat)
   * An iOS chat App based on XMPPFramework.
   

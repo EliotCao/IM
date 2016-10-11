@@ -75,4 +75,11 @@
   
 - [ChatKit](https://github.com/dormitory219/ChatKit)
   * a workSpace For imServce
-   
+  
+- [MakemojiSDK](https://github.com/makemoji/MakemojiSDK)
+ * Emoji Keyboard SDK (iOS) http://makemoji.com/sdk/
+ 
+- [XMPPBlog](https://github.com/winterSleep/XMPPBlog)
+ * XMPP的一些博客
+ 
+ 

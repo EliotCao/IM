@@ -81,9 +81,9 @@
   
   
 - [MakemojiSDK](https://github.com/makemoji/MakemojiSDK)
- *Emoji Keyboard SDK (iOS) http://makemoji.com/sdk/
+ * Emoji Keyboard SDK (iOS) http://makemoji.com/sdk/
  
 - [XMPPBlog](https://github.com/winterSleep/XMPPBlog)
- *XMPP的一些博客
+ * XMPP的一些博客
 - [基于Websocket的IM即时通讯技术](https://github.com/ChenYilong/iOSBlog/tree/master/Tips/基于Websocket的IM即时通讯技术)
- *基于WebSocket的IM技术 
+* 基于WebSocket的IM技术 

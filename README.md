@@ -73,11 +73,17 @@
 #### [jchat-swift](https://github.com/jpush/jchat-swift)
   * Swift version of JChat iOS.
   
+#### [jchat-swift](https://github.com/jpush/jchat-swift)
+ * Swift version of JChat iOS.
+  
 #### [ChatKit](https://github.com/dormitory219/ChatKit)
   * a workSpace For imServce
   
 #### [AutoLayoutCellDemo](https://github.com/rasping/AutoLayoutCellDemo)
  * 利用AutoLayout实现cell高度自适应,具体原理及实现详见：http://www.jianshu.com/p/726eb06d27e8
+ 
+#### [ZYChat](https://github.com/zyprosoft/zychat)
+ * 聊天UI框架 
   
   
 #### [MakemojiSDK](https://github.com/makemoji/MakemojiSDK)
